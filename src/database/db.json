@@ -1,0 +1,14 @@
+{
+    "tickets": [
+        {
+            "id": "92de0e3b-f1f9-49ca-9de8-224fbd7f8a07",
+            "equipament": "Teclado",
+            "description": "Parou de funcionar",
+            "user_name": "Lucas dos Santos",
+            "status": "closed",
+            "created_at": "2024-12-17T18:37:29.805Z",
+            "update_at": "2024-12-17T18:37:29.805Z",
+            "solution": "Equipamento trocado"
+        }
+    ]
+}
